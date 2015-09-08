@@ -12,11 +12,11 @@ Je voudrai faire remarquer que la publication sur Github a été le plus diffici
 Un mot sur mon projet développeur
 -
 
-Avec wordpress, je suis en train de developper un site culturel bâptisé "nomtemah". "Nomtemah" signifie "lion" ou "roi de la forêt" en langue Ghomala' C'est aussi de la même manière que le chef supérieur est nommé dans le grand Ouest Cameroun. 
+Avec wordpress, je suis en train de developper un site culturel bâptisé "nomtemah". "Nomtemah" signifie "lion" ou "roi de la forêt" en langue Ghomala' C'est aussi de la même manière que le chef supérieur est nommé dans plusieurs villages du grand Ouest Cameroun. 
 
 A travers ce projet, nous voulons valoriser la culture bamiléké en présentant ses chefferies, ses rhithes et coutumes, ses moyens de communication et j'en passe. 
 
-regardez ces quelques images! ne sont-elle pas belles? ne donnent-elles pas envie de passer ses vacances dans le grand Ouest Cameroun? vous troverez encore plus d'images, de textes et de vidéo sur le site "nomtemah dans les prochains mois".
+regardez ces quelques images! ne sont-elle pas belles? ne donnent-elles pas envie de passer ses vacances dans le grand Ouest Cameroun? vous trouverez encore plus d'images, de textes et de vidéo sur le site "nomtemah" dans les prochains mois.
 
 
 ![Tse Djo] (http://www.semebeach.com/images/bamileke.gif) ![Nemouh] (https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHbVT0BMiUGeMfmzFwA-wqdJSixkeeqPE_c8CMcEfiGcbhJEEB) ![Fô] (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuKy7H6Fz-2m16ihepTvXUiCRm8_PH4BQpFBRwQIAqrIc6B5n4MQ)  
