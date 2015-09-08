@@ -19,6 +19,6 @@ A travers ce projet, nous voulons valoriser la culture bamiléké en présentant
 regardez ces quelques images! ne sont-elle pas belles? ne donnent-elles pas envie de passer ses vacances dans le grand Ouest Cameroun? vous troverez encore plus d'images, de textes et de vidéo sur le site "nomtemah dans les prochains mois".
 
 
-![Tse Djo] (https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJxACbt-dY-a51IBom3LOumXFSPw0Kxcaw66AZh8kG3PbitDA25pOnE2M) ![Nemouh] (https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHbVT0BMiUGeMfmzFwA-wqdJSixkeeqPE_c8CMcEfiGcbhJEEB) ![Fô] (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuKy7H6Fz-2m16ihepTvXUiCRm8_PH4BQpFBRwQIAqrIc6B5n4MQ)  
+![Tse Djo] (http://www.semebeach.com/images/bamileke.gif) ![Nemouh] (https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHbVT0BMiUGeMfmzFwA-wqdJSixkeeqPE_c8CMcEfiGcbhJEEB) ![Fô] (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuKy7H6Fz-2m16ihepTvXUiCRm8_PH4BQpFBRwQIAqrIc6B5n4MQ)  
 
 Merci et à bientôt
